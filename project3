@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+<style>
+body {
+  background-color: black;
+}
+	<title> Home - Anthony Parker </title>
+h1 {
+  color: white;
+  text-align: center;
+}
+p {
+  font-family: helvitca neue;
+  font-size: 18px;
+}
+</style>
+</head>
+<body>
+<h1> Hello World </h1>
+  
+<p> "If you want to build a mountain, start collecting rocks today" - African Proverb </p>
 
+</body>
+</html>
