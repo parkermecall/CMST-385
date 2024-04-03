@@ -34,7 +34,7 @@ p{
     width: 100%;
     padding: 50px 0;
 }
-.artistSection img{
+.artistSection imgs{
     width: 100%;
 }
 
@@ -72,7 +72,7 @@ p{
     padding: 50px 0;
 }
 
-.newsMain img{
+.newsMain imgs{
     width: 70%;
 }
 
@@ -118,7 +118,7 @@ footer{
     margin-top: 30px;
 }
 
-.albumBox img{
+.albumBox imgs{
     width: 80%;
     display: flex;
     align-items: center;
